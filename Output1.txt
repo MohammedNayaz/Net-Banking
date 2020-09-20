@@ -1,0 +1,293 @@
+OutPut:1
+
+------------WELCOME TO OUR BANK----------
+ -----------     ---------   ----------
+  1.Sign In      2.Log In    3.Log Out
+ -----------     ---------   ----------
+Select your method:1
+Sign-In By Creating New Account
+Fill the following details...
+Name:
+Mohammed Nayaz
+Age:
+20
+Adhaar:
+12345678
+Pan Card:
+23456789
+Address:
+Chitradurga
+Nominee Name:
+Account Type:.
+1.Saving Account
+2.Current Account
+1
+Minimum Deposit Amount(500):
+3500
+Create Your Password
+123
+-------------------------------
+--Account Created Successfully--
+Your Account Number: 10020301
+_______________________________
+Log In to Get your Account Benifits and our Services
+--------------------------------
+
+
+
+Log-In To Your Bank Account
+_______________________________________
+
+Enter your Account Number :	10020301
+Enter your Password   :	123
+--Login Successfull--
+___________________________________________
+          ----Welcome Back----
+
+ Your Account Number: 10020301
+Your Current Balance:   Rs.3500
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 1
+_____________________________________________
+
+1.Savings
+2.Current 
+3.View All 
+4.Exit
+_____________________________________________
+3
+_____________________________________________
+_______________Account Details_______________
+_____________________________________________
+Name			:Mohammed Nayaz
+Account Number	:10020301
+Account Type	:Savings Account
+Account Balance :3500
+Account Status  :Actice
+Brank  			:xyz_city
+IFSC Code  		:XYZ1234
+MMID  			:Mohammed NayazXYZ1234
+UPI ID 			:Mohammed Nayaz44@XYZ 
+Pan Card		:23456789
+Adhaar Card		:12345678
+Age				:20
+Nominee Name	:
+_____________________________________________
+1.Savings
+2.Current 
+3.View All 
+4.Exit
+_____________________________________________
+4
+Exited...!
+_____________________________________________
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 2
+_____________________________________________
+
+Available Loans For You.....
+1.Home Loan@6.5%
+2.Vehicle Loan@12%
+3.Education Loan@7%
+4.Personal Loan@8%
+5.Exit
+Select your Choice
+2
+Vehicle Loan...
+Enter Amount
+240000
+Repay Time Period(in months)
+36
+Your Toatal Payable amount:Rs.327264
+Your Monthly Instalments for 36 month is Rs.9158/mon
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 3
+_____________________________________________
+Available Investments For You.....
+
+1.PPF
+2.Direct Tax
+3.National Pension Scheem
+4.Mutual Funds
+5.Exit
+Select your Choice
+1
+PPF
+Enter Amount
+500
+Invested Amount: 500.0
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 4
+_____________________________________________
+Available Deposit For You.....
+1.Fixed Deposit
+2.Recurring Deposit
+
+Select your Choice
+1
+Fixed Deposit
+Enter Amount
+55000
+Time Period(in months)
+24
+Your Meturity Amount after24 month is Rs.58135
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 5
+_____________________________________________
+Enter Amount
+500
+Enter Payee Name
+Mdn
+500.0.rs Transferd to Mdn
+Your Account Balance = 3000.0
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 6
+_____________________________________________
+Enter Amount
+1200
+Enter Payee Name
+Technico
+1200.0.rs Debited to Technico
+Your Account Balance = 2300.0
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 7
+_____________________________________________
+Enter Amount
+1000
+Enter a message
+1000.0.rs Credited to your account number:  10020301
+Your Account Balance is = 3300.0
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 8
+_____________________________________________
+Enter Amount
+500
+Enter Enterprise Name
+sam
+Enter Enterprise ID
+444
+500.0.rs Payed to sam
+ Store ID444
+Your Account Balance = 2700.0
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+
+_____________________________________________
+
+Select your choice: 9
+Loged out..... Vist Again
