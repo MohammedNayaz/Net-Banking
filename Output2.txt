@@ -1,0 +1,139 @@
+Output 2:
+------------WELCOME TO OUR BANK----------
+ -----------     ---------   ----------
+  1.Sign In      2.Log In    3.Log Out
+ -----------     ---------   ----------
+Select your method:1
+Sign-In By Creating New Account
+Fill the following details...
+Name:
+Mohammed Nayaz
+Age:
+20
+Adhaar:
+323980219
+Pan Card:
+123456789
+Address:
+Chitradurga
+Nominee Name:
+Mdn
+Account Type:.
+1.Saving Account
+2.Current Account
+2
+Minimum Deposit Amount(500):
+45000
+Create Your Password
+12345
+-------------------------------
+--Account Created Successfully--
+Your Account Number: 10020301
+_______________________________
+Log In to Get your Account Benifits and our Services
+--------------------------------
+
+
+
+Log-In To Your Bank Account
+_______________________________________
+
+Enter your Account Number :	10020301
+Enter your Password   :	123
+--Incorrect password--
+
+ WARNING 
+ Incorrect Password or Incorrect Account Number...
+Forgot Password...!(click '1') 
+1
+Enter your Account Number: 
+10020301
+Enter your Pan Card Number: 
+123456789
+Enter new pin
+123123
+Login Once Agin...
+
+Log-In To Your Bank Account
+_______________________________________
+
+Enter your Account Number :	10020301
+Enter your Password   :	123123
+--Login Successfull--
+___________________________________________
+          ----Welcome Back----
+
+ Your Account Number: 10020301
+Your Current Balance:   Rs.45000
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Statements
+
+10. Log out
+
+_____________________________________________
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Log out
+
+_____________________________________________
+
+Select your choice: 1
+_____________________________________________
+
+1.Savings
+2.Current 
+3.View All 
+4.Exit
+_____________________________________________
+3
+_____________________________________________
+_______________Account Details_______________
+_____________________________________________
+Name			:Mohammed Nayaz
+Account Number		:10020301
+Account Type		:Current Account
+Account Balance 	:45000
+Account Status  	:Actice
+Brank  			:xyz_city
+IFSC Code  		:XYZ1234
+MMID  			:Mohammed NayazXYZ1234
+UPI ID 			:Mohammed Nayaz44@XYZ 
+Pan Card		:123456789
+Adhaar Card		:323980219
+Age			:20
+Nominee Name		:Mdn
+
+1.Savings
+2.Current 
+3.View All 
+4.Exit
+_____________________________________________
+4
+Exited...!
+_____________________________________________
+_____________________________________________
+____________________________________________
+____________Our Services____________
+
+1.Accounts	2.Loans		3.Investments
+
+4.Deposits	5.Funds		6.BillPayments
+
+7.Debit		8.Credit	9.Log out
+
+_____________________________________________
+
+Select your choice: 9
+Loged out..... Vist Again
