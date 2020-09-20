@@ -42,7 +42,8 @@ class Accounting  implements Accounts
 			System.out.println("Sign-In By Creating New Account");
 			System.out.println("Fill the following details...");
 			System.out.println("Name:");
-			name = S.next();
+			name = S.nextLine();
+			
 			System.out.println("Age:");
 			age = S.nextInt();
 			System.out.println("Adhaar:");
@@ -52,7 +53,7 @@ class Accounting  implements Accounts
 			System.out.println("Address:");
 			adr = S.next();
 			System.out.println("Nominee Name:");
-			nomin = S.next();
+			nomin = S.nextLine();
 			
 			System.out.println("Account Type:.\n1.Saving Account\n2.Current Account");
 			int ch = S.nextInt();
@@ -117,8 +118,8 @@ class Accounting  implements Accounts
 					System.out.println("____________Our Services____________\n");
 					System.out.println("1.Accounts	2.Loans		3.Investments\n");
 					System.out.println("4.Deposits	5.Funds		6.BillPayments\n");
-					System.out.println("7.Debit		8.Credit	9.Statements\n");
-					System.out.println("10. Log out\n");
+					System.out.println("7.Debit		8.Credit	9.Log out\n");
+					
 					System.out.println("_____________________________________________");
 				}
 				else
@@ -387,7 +388,7 @@ class Accounting  implements Accounts
 	public void debit()
 	{
 		System.out.println("_____________________________________________");
-		System.out.println("Enter Amount");
+		System.out.println("Enter Debit Amount");
 		double amt = S.nextDouble();
 		System.out.println("Enter Payee Name");
 		String name = S.next();
@@ -398,7 +399,7 @@ class Accounting  implements Accounts
 	public void credit()
 	{
 		System.out.println("_____________________________________________");
-		System.out.println("Enter Amount");
+		System.out.println("Enter Credit Amount");
 		double amt = S.nextDouble();
 		System.out.println("Enter a message");
 		System.out.println(amt+".rs Credited to your account number:  " + accnum);
@@ -440,6 +441,13 @@ public class ATM extends Accounting
 			do
 			{	
 				System.out.println("_____________________________________________");
+				System.out.println("____________________________________________");
+				System.out.println("____________Our Services____________\n");
+				System.out.println("1.Accounts	2.Loans		3.Investments\n");
+				System.out.println("4.Deposits	5.Funds		6.BillPayments\n");
+				System.out.println("7.Debit		8.Credit	9.Log out\n");
+				
+				System.out.println("_____________________________________________");
 				System.out.print("\nSelect your choice: ");
 				ch2 = Sn.nextInt();			
 				switch(ch2)
@@ -452,7 +460,7 @@ public class ATM extends Accounting
 				case 6: T.debit();				break;
 				case 7: T.credit();				break;
 				case 8: T.billPay();			break;
-				case 9: System.out.println("Do you want to Exit \nYes = 1\n No = 0"); break;
+				case 9: System.out.println("Loged out..... Vist Again"); break;
 				}
 			}while(ch2 != 9);
 		}
@@ -461,6 +469,13 @@ public class ATM extends Accounting
 			T.login();
 			do
 			{	System.out.print("Select your choice:");
+			System.out.println("____________________________________________");
+			System.out.println("____________Our Services____________\n");
+			System.out.println("1.Accounts	2.Loans		3.Investments\n");
+			System.out.println("4.Deposits	5.Funds		6.BillPayments\n");
+			System.out.println("7.Debit		8.Credit	9.Log out\n");
+			
+			System.out.println("_____________________________________________");
 				ch2 = Sn.nextInt();			
 				switch(ch2)
 				{
@@ -472,7 +487,7 @@ public class ATM extends Accounting
 				case 6: T.debit();				break;
 				case 7: T.credit();				break;
 				case 8: T.billPay();			break;
-				case 9: System.out.println("Do you want to Exit \nYes = 1\n No = 0"); break;
+				case 9: System.out.println("Loged out..... Vist Again"); break;
 				}
 			}while(ch2 != 9);
 		}
