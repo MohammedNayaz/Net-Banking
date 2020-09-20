@@ -14,7 +14,7 @@ debits,
 credits,
 bill payments,
 
-showing the usage of Interface Clases in real-time example
+showing the usage of Interface Clases & Inheritence in real-time example
 
 Click the Below Link to view the code:
 https://github.com/MohammedNayaz/Net-Banking/blob/master/ATM.java
@@ -22,5 +22,5 @@ https://github.com/MohammedNayaz/Net-Banking/blob/master/ATM.java
 Click the Below Link to Vie the Output1: 
 https://github.com/MohammedNayaz/Net-Banking/blob/master/Output1.txt
 
-Click the Below Link to Vie the Output2: (Password Changing Mechanism
+Click the Below Link to Vie the Output2: (Password Changing Mechanism)
 https://github.com/MohammedNayaz/Net-Banking/blob/master/Output2.txt
